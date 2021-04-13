@@ -13,7 +13,8 @@ void print(void) ;
 int main(){
     //algorithm
     scan() ; //hfashjkdnfkl
-    convert() ;
+    haloo();
+    hai;
     print() ;
     return 0;
 }
