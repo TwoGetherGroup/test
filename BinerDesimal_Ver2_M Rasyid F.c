@@ -12,14 +12,13 @@ void print(void) ;
 
 int main(){
     //algorithm
-    scan() ;
+    scan() ; //hfashjkdnfkl
     convert() ;
     print() ;
     return 0;
 }
 
 void scan(){
-    scanf("%[^\n]", &binary) ;
 }
 
 void convert(){
